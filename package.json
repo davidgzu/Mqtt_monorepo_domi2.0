@@ -4,5 +4,8 @@
   "workspaces": [
     "API",
     "client"
-  ]
+  ],
+  "scripts": {
+    "start:init": "cd API && node index.js & cd client && yarn start"
+  }
 }
