@@ -1,2 +1,4 @@
 # Mqtt_monorepo_domi2.0
-MQTT-based online domino game with p5.js. Real-time gameplay &amp; communication using Mosquitto. Easy setup for developers.
+MQTT-based online domino game with p5.js. Real-time gameplay &amp; communication using Mosquitto.
+
+This repository is a terminal project that implements a MQTT architecture in online board games using p5.js to create a client-side domino game. The game allows participants to play domino online and interact with each other in real-time. The Mosquitto MQTT tool is used to send messages between participants in the game, facilitating communication and game coordination. The p5.js library provides a rich set of features for creating interactive graphics and animations, making the game visually appealing and engaging. The repository includes all the necessary code and documentation to set up and run the game, making it easy for developers to get started and build their own online board games using MQTT architecture.
