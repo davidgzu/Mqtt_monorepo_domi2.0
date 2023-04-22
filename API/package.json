@@ -1,0 +1,10 @@
+{
+  "name": "MQTT_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Gonzalez Zumaya",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
